@@ -51,7 +51,7 @@
     "node-docker-api": "^1.1.22",
     "password-generator": "^2.2.0",
     "response-time": "^2.3.2",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "socket.io": "^2.2.0",
     "tar-fs": "^2.0.0",
     "tracer": "^0.9.8"
